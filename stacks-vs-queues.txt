@@ -1,0 +1,11 @@
+// Stacks can be built with arrays or linked lists
+    // Depends on what sort of operations/priorities you would like to do 
+    // Arrays allow cache locality which makes them faster when 
+    // accessing items in memory bc they are right next to each other.
+    // Linked lists are scattered all over memory.
+    // Linked lists have extra memory associated with them  
+    // bc we have to hold on to their pointers, but they do 
+    // have more dynamic memory.
+
+// Queues can be built with arrays or linked lists. 
+    // More efficient to use linked lists
